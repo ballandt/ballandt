@@ -11,7 +11,7 @@
 
 [![Githubstats](https://github-readme-stats.vercel.app/api/pin/?username=ballandt&&repo=avmath&&theme=dracula)](https://github.com/ballandt/avmath)
 [![Githubstats](https://github-readme-stats.vercel.app/api/pin/?username=ballandt&&repo=file-writer&&theme=dracula)](https://github.com/ballandt/file-writer)
-[![Githubstats](https://github-readme-stats.vercel.app/api/pin/?username=ballandt&&repo=dbterminal&&theme=dracula)](https://github.com/ballandt/dbterminal)
+[![Githubstats](https://github-readme-stats.vercel.app/api/pin/?username=ballandt&&repo=sqlite-terminal&&theme=dracula)](https://github.com/ballandt/sqlite-terminal)
 
 ---
 ## GitHub stats
