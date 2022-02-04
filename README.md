@@ -22,4 +22,4 @@ __Languages__
 
 
 ![Githubstats](https://github-readme-stats.vercel.app/api?username=ballandt&&theme=dracula)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ballandt&theme=dracula)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ballandt&theme=dracula&&hide=html)
