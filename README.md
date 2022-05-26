@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on mathematical software
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Python time optimation
+- 🤔 I’m looking for help with Python C API
 - 💬 Ask me about maths in Python
 - 📫 How to reach me: [ballandt@pm.me](mailto:ballandt@pm.me)
 
